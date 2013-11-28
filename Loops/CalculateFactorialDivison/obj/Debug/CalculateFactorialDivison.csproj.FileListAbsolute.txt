@@ -1,0 +1,5 @@
+c:\users\kalo\csharpprogs\Loops\CalculateFactorialDivison\bin\Debug\CalculateFactorialDivison.exe.config
+c:\users\kalo\csharpprogs\Loops\CalculateFactorialDivison\bin\Debug\CalculateFactorialDivison.exe
+c:\users\kalo\csharpprogs\Loops\CalculateFactorialDivison\bin\Debug\CalculateFactorialDivison.pdb
+c:\users\kalo\csharpprogs\Loops\CalculateFactorialDivison\obj\Debug\CalculateFactorialDivison.exe
+c:\users\kalo\csharpprogs\Loops\CalculateFactorialDivison\obj\Debug\CalculateFactorialDivison.pdb
