@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\Poker\bin\Debug\Poker.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\Poker\bin\Debug\Poker.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\Poker\bin\Debug\Poker.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\Poker\obj\Debug\Poker.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\Poker\obj\Debug\Poker.pdb

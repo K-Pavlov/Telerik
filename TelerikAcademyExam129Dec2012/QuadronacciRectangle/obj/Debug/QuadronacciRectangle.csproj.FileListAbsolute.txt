@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.pdb

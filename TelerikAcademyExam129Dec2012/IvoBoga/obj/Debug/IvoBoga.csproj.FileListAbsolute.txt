@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\IvoBoga\bin\Debug\IvoBoga.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\IvoBoga\obj\Debug\IvoBoga.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\IvoBoga\bin\Debug\IvoBoga.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\IvoBoga\bin\Debug\IvoBoga.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\IvoBoga\obj\Debug\IvoBoga.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\IvoBoga\obj\Debug\IvoBoga.pdb
