@@ -1,5 +1,0 @@
-c:\users\kalo\csharpprogs\Loops\MaxAndMin\bin\Debug\MaxAndMin.exe.config
-c:\users\kalo\csharpprogs\Loops\MaxAndMin\bin\Debug\MaxAndMin.exe
-c:\users\kalo\csharpprogs\Loops\MaxAndMin\bin\Debug\MaxAndMin.pdb
-c:\users\kalo\csharpprogs\Loops\MaxAndMin\obj\Debug\MaxAndMin.exe
-c:\users\kalo\csharpprogs\Loops\MaxAndMin\obj\Debug\MaxAndMin.pdb
