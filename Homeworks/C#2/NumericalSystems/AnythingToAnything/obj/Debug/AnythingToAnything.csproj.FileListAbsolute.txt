@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnythingToAnything\bin\Debug\AnythingToAnything.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnythingToAnything\bin\Debug\AnythingToAnything.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnythingToAnything\obj\Debug\AnythingToAnything.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnythingToAnything\obj\Debug\AnythingToAnything.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnythingToAnything\obj\Debug\AnythingToAnything.csprojResolveAssemblyReference.cache

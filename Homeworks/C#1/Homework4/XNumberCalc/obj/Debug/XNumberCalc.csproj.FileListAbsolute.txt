@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\XNumberCalc\bin\Debug\XNumberCalc.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\XNumberCalc\bin\Debug\XNumberCalc.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\XNumberCalc\bin\Debug\XNumberCalc.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\XNumberCalc\obj\Debug\XNumberCalc.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\XNumberCalc\obj\Debug\XNumberCalc.pdb

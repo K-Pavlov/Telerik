@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\03BiggestOf3Ints\bin\Debug\03BiggestOf3Ints.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\03BiggestOf3Ints\bin\Debug\03BiggestOf3Ints.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\03BiggestOf3Ints\bin\Debug\03BiggestOf3Ints.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\03BiggestOf3Ints\obj\Debug\03BiggestOf3Ints.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\03BiggestOf3Ints\obj\Debug\03BiggestOf3Ints.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\03BiggestOf3Ints\obj\Debug\03BiggestOf3Ints.pdb

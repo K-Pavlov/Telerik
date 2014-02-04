@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\05DigitName\bin\Debug\05DigitName.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\05DigitName\obj\Debug\05DigitName.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\05DigitName\bin\Debug\05DigitName.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\05DigitName\bin\Debug\05DigitName.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\05DigitName\obj\Debug\05DigitName.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\05DigitName\obj\Debug\05DigitName.pdb

@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\11Cards\bin\Debug\11Cards.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\11Cards\bin\Debug\11Cards.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\11Cards\bin\Debug\11Cards.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\11Cards\obj\Debug\11Cards.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\11Cards\obj\Debug\11Cards.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\11Cards\obj\Debug\11Cards.pdb

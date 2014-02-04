@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.pdb

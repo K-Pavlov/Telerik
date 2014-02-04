@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\07FibTo100\bin\Debug\07FibTo100.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\07FibTo100\bin\Debug\07FibTo100.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\07FibTo100\bin\Debug\07FibTo100.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\07FibTo100\obj\Debug\07FibTo100.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\07FibTo100\obj\Debug\07FibTo100.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\07FibTo100\obj\Debug\07FibTo100.pdb

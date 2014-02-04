@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\RandomValues\obj\Debug\RandomValues.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\RandomValues\bin\Debug\RandomValues.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\RandomValues\bin\Debug\RandomValues.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\RandomValues\bin\Debug\RandomValues.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\RandomValues\obj\Debug\RandomValues.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\RandomValues\obj\Debug\RandomValues.pdb

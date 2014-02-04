@@ -1,0 +1,12 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\bin\Debug\Checker.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\bin\Debug\Checker.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\bin\Debug\InfoGiver.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\bin\Debug\InfoGiver.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\bin\Debug\Drawer.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\GuessingGame\bin\Debug\Drawer.pdb

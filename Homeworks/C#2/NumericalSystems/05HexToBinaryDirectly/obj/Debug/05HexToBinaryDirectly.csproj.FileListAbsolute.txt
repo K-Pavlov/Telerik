@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\05HexToBinaryDirectly\bin\Debug\05HexToBinaryDirectly.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\05HexToBinaryDirectly\bin\Debug\05HexToBinaryDirectly.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\05HexToBinaryDirectly\bin\Debug\05HexToBinaryDirectly.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\05HexToBinaryDirectly\obj\Debug\05HexToBinaryDirectly.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\05HexToBinaryDirectly\obj\Debug\05HexToBinaryDirectly.pdb

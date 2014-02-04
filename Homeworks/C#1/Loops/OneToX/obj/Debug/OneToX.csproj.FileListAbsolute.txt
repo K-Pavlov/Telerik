@@ -1,0 +1,13 @@
+c:\users\kalo\csharpprogs\Loops\OneToX\bin\Debug\OneToX.exe.config
+c:\users\kalo\csharpprogs\Loops\OneToX\bin\Debug\OneToX.exe
+c:\users\kalo\csharpprogs\Loops\OneToX\bin\Debug\OneToX.pdb
+c:\users\kalo\csharpprogs\Loops\OneToX\obj\Debug\OneToX.csprojResolveAssemblyReference.cache
+c:\users\kalo\csharpprogs\Loops\OneToX\obj\Debug\OneToX.exe
+c:\users\kalo\csharpprogs\Loops\OneToX\obj\Debug\OneToX.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\bin\Debug\OneToX.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\obj\Debug\OneToX.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\obj\Debug\OneToX.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\bin\Debug\OneToX.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\bin\Debug\OneToX.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\obj\Debug\OneToX.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\bin\Debug\01OneToX.exe.config

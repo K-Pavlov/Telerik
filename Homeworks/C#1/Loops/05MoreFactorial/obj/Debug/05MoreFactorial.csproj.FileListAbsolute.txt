@@ -1,0 +1,4 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\05MoreFactorial\bin\Debug\05MoreFactorial.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\05MoreFactorial\obj\Debug\05MoreFactorial.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\05MoreFactorial\bin\Debug\05MoreFactorial.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\05MoreFactorial\obj\Debug\05MoreFactorial.exe

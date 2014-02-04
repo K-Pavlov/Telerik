@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\01Expression_Odd_Even\bin\Debug\01Expression_Odd_Even.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\01Expression_Odd_Even\obj\Debug\01Expression_Odd_Even.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\01Expression_Odd_Even\bin\Debug\01Expression_Odd_Even.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\01Expression_Odd_Even\bin\Debug\01Expression_Odd_Even.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\01Expression_Odd_Even\obj\Debug\01Expression_Odd_Even.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\01Expression_Odd_Even\obj\Debug\01Expression_Odd_Even.pdb

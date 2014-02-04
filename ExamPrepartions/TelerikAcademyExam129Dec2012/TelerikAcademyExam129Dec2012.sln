@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker", "Poker\Poker.csproj", "{C5AE1784-05EB-47C5-8C68-2A8B95606C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UKFlag", "UKFlag\UKFlag.csproj", "{2998C9E6-C799-4B9F-B2BC-25570CC85A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleDigitRotation", "TripleDigitRotation\TripleDigitRotation.csproj", "{5F57B4DB-4839-4C4F-8295-E07E371894E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadronacciRectangle", "QuadronacciRectangle\QuadronacciRectangle.csproj", "{747CF6B7-C356-4E40-A495-A45882F49AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngryBits", "AngryBits\AngryBits.csproj", "{49FEF916-3F7F-4F0D-9ADA-B5741B0A1B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IvoBoga", "IvoBoga\IvoBoga.csproj", "{BC1156D6-3C84-430F-ACD8-F48000B5B0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5AE1784-05EB-47C5-8C68-2A8B95606C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AE1784-05EB-47C5-8C68-2A8B95606C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AE1784-05EB-47C5-8C68-2A8B95606C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AE1784-05EB-47C5-8C68-2A8B95606C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2998C9E6-C799-4B9F-B2BC-25570CC85A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2998C9E6-C799-4B9F-B2BC-25570CC85A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2998C9E6-C799-4B9F-B2BC-25570CC85A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2998C9E6-C799-4B9F-B2BC-25570CC85A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F57B4DB-4839-4C4F-8295-E07E371894E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F57B4DB-4839-4C4F-8295-E07E371894E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F57B4DB-4839-4C4F-8295-E07E371894E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F57B4DB-4839-4C4F-8295-E07E371894E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747CF6B7-C356-4E40-A495-A45882F49AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747CF6B7-C356-4E40-A495-A45882F49AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747CF6B7-C356-4E40-A495-A45882F49AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747CF6B7-C356-4E40-A495-A45882F49AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FEF916-3F7F-4F0D-9ADA-B5741B0A1B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FEF916-3F7F-4F0D-9ADA-B5741B0A1B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FEF916-3F7F-4F0D-9ADA-B5741B0A1B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FEF916-3F7F-4F0D-9ADA-B5741B0A1B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1156D6-3C84-430F-ACD8-F48000B5B0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1156D6-3C84-430F-ACD8-F48000B5B0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1156D6-3C84-430F-ACD8-F48000B5B0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1156D6-3C84-430F-ACD8-F48000B5B0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

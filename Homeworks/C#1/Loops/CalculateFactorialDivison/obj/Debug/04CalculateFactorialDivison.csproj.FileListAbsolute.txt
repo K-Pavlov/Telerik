@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalculateFactorialDivison\bin\Debug\04CalculateFactorialDivison.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalculateFactorialDivison\bin\Debug\04CalculateFactorialDivison.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalculateFactorialDivison\bin\Debug\04CalculateFactorialDivison.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalculateFactorialDivison\obj\Debug\04CalculateFactorialDivison.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalculateFactorialDivison\obj\Debug\04CalculateFactorialDivison.pdb

@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\02SignOfProductOfNumbers\obj\Debug\02SignOfProductOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\02SignOfProductOfNumbers\bin\Debug\02SignOfProductOfNumbers.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\02SignOfProductOfNumbers\bin\Debug\02SignOfProductOfNumbers.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\02SignOfProductOfNumbers\bin\Debug\02SignOfProductOfNumbers.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\02SignOfProductOfNumbers\obj\Debug\02SignOfProductOfNumbers.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\02SignOfProductOfNumbers\obj\Debug\02SignOfProductOfNumbers.pdb

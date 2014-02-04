@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\TripleDigitRotation\bin\Debug\TripleDigitRotation.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\TripleDigitRotation\bin\Debug\TripleDigitRotation.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\TripleDigitRotation\bin\Debug\TripleDigitRotation.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\TripleDigitRotation\obj\Debug\TripleDigitRotation.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\TripleDigitRotation\obj\Debug\TripleDigitRotation.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TelerikAcademyExam129Dec2012\TripleDigitRotation\obj\Debug\TripleDigitRotation.csprojResolveAssemblyReference.cache

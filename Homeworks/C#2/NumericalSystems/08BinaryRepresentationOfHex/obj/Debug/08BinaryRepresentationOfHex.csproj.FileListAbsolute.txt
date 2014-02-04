@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\08BinaryRepresentationOfHex\bin\Debug\08BinaryRepresentationOfHex.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\08BinaryRepresentationOfHex\bin\Debug\08BinaryRepresentationOfHex.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\08BinaryRepresentationOfHex\bin\Debug\08BinaryRepresentationOfHex.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\08BinaryRepresentationOfHex\obj\Debug\08BinaryRepresentationOfHex.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\08BinaryRepresentationOfHex\obj\Debug\08BinaryRepresentationOfHex.pdb

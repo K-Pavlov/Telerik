@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalcStrangeSum\bin\Debug\CalcStrangeSum.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalcStrangeSum\bin\Debug\CalcStrangeSum.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalcStrangeSum\bin\Debug\CalcStrangeSum.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalcStrangeSum\obj\Debug\CalcStrangeSum.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalcStrangeSum\obj\Debug\CalcStrangeSum.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\CalcStrangeSum\bin\Debug\06CalcStrangeSum.exe.config

@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\GreaterOfTwo\bin\Debug\GreaterOfTwo.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\GreaterOfTwo\bin\Debug\GreaterOfTwo.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\GreaterOfTwo\bin\Debug\GreaterOfTwo.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\GreaterOfTwo\obj\Debug\GreaterOfTwo.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\GreaterOfTwo\obj\Debug\GreaterOfTwo.pdb

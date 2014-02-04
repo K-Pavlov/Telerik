@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Checker\bin\Debug\Checker.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Checker\bin\Debug\Checker.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Checker\obj\Debug\Checker.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Checker\obj\Debug\Checker.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Checker\obj\Debug\Checker.pdb

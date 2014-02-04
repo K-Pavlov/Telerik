@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Hangerman\bin\Debug\InfoGiver.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Hangerman\bin\Debug\InfoGiver.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Hangerman\obj\Debug\InfoGiver.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Hangerman\obj\Debug\InfoGiver.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Hangerman\obj\Debug\InfoGiver.csprojResolveAssemblyReference.cache

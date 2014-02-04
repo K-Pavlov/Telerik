@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\bin\Debug\01OneToX.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\bin\Debug\01OneToX.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\bin\Debug\01OneToX.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\obj\Debug\01OneToX.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToX\obj\Debug\01OneToX.pdb

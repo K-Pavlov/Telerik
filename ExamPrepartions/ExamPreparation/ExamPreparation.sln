@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeMachine", "CoffeMachine\CoffeMachine.csproj", "{1D3BEC16-A276-467B-B833-137B4E60704F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neurons", "Neurons\Neurons.csproj", "{C9BE0156-BB49-487B-B3A3-1680D881B20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zerg!!!", "Zerg!!!\Zerg!!!.csproj", "{829733A2-4197-4A4C-BC4A-D1835F93501A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D3BEC16-A276-467B-B833-137B4E60704F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3BEC16-A276-467B-B833-137B4E60704F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3BEC16-A276-467B-B833-137B4E60704F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3BEC16-A276-467B-B833-137B4E60704F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BE0156-BB49-487B-B3A3-1680D881B20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BE0156-BB49-487B-B3A3-1680D881B20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BE0156-BB49-487B-B3A3-1680D881B20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BE0156-BB49-487B-B3A3-1680D881B20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{829733A2-4197-4A4C-BC4A-D1835F93501A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829733A2-4197-4A4C-BC4A-D1835F93501A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829733A2-4197-4A4C-BC4A-D1835F93501A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829733A2-4197-4A4C-BC4A-D1835F93501A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

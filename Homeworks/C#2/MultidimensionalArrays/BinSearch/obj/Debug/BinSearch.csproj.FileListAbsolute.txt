@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\BinSearch\bin\Debug\BinSearch.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\BinSearch\bin\Debug\BinSearch.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\BinSearch\bin\Debug\BinSearch.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\BinSearch\obj\Debug\BinSearch.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\BinSearch\obj\Debug\BinSearch.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\BinSearch\obj\Debug\BinSearch.csprojResolveAssemblyReference.cache

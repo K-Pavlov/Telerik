@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\09SubsetSum\bin\Debug\09SubsetSum.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\09SubsetSum\obj\Debug\09SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\09SubsetSum\bin\Debug\09SubsetSum.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\09SubsetSum\bin\Debug\09SubsetSum.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\09SubsetSum\obj\Debug\09SubsetSum.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\09SubsetSum\obj\Debug\09SubsetSum.pdb

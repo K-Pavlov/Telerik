@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\02Expression_Division\bin\Debug\02Expression_Division.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\02Expression_Division\bin\Debug\02Expression_Division.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\02Expression_Division\bin\Debug\02Expression_Division.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\02Expression_Division\obj\Debug\02Expression_Division.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\02Expression_Division\obj\Debug\02Expression_Division.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\02Expression_Division\obj\Debug\02Expression_Division.csprojResolveAssemblyReference.cache

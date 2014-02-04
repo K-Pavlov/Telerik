@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\03Rect_Area_Expression\bin\Debug\03Rect_Area_Expression.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\03Rect_Area_Expression\bin\Debug\03Rect_Area_Expression.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\03Rect_Area_Expression\bin\Debug\03Rect_Area_Expression.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\03Rect_Area_Expression\obj\Debug\03Rect_Area_Expression.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\03Rect_Area_Expression\obj\Debug\03Rect_Area_Expression.pdb

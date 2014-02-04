@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkDays\bin\Debug\WorkDays.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkDays\bin\Debug\WorkDays.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkDays\bin\Debug\WorkDays.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkDays\obj\Debug\WorkDays.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkDays\obj\Debug\WorkDays.pdb

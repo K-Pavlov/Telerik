@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\10Bit_P_1\bin\Debug\10Bit_P_1.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\10Bit_P_1\bin\Debug\10Bit_P_1.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\10Bit_P_1\bin\Debug\10Bit_P_1.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\10Bit_P_1\obj\Debug\10Bit_P_1.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\10Bit_P_1\obj\Debug\10Bit_P_1.pdb

@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\03AddingNumberToLines\bin\Debug\03AddingNumberToLines.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\03AddingNumberToLines\bin\Debug\03AddingNumberToLines.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\03AddingNumberToLines\bin\Debug\03AddingNumberToLines.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\03AddingNumberToLines\obj\Debug\03AddingNumberToLines.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\03AddingNumberToLines\obj\Debug\03AddingNumberToLines.pdb

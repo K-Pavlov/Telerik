@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\DayOfTheWeek\bin\Debug\DayOfTheWeek.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\DayOfTheWeek\bin\Debug\DayOfTheWeek.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\DayOfTheWeek\bin\Debug\DayOfTheWeek.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\DayOfTheWeek\obj\Debug\DayOfTheWeek.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\DayOfTheWeek\obj\Debug\DayOfTheWeek.pdb

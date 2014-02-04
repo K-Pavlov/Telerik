@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\05FilesAndMatrixes\bin\Debug\05FilesAndMatrixes.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\05FilesAndMatrixes\bin\Debug\05FilesAndMatrixes.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\05FilesAndMatrixes\bin\Debug\05FilesAndMatrixes.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\05FilesAndMatrixes\obj\Debug\05FilesAndMatrixes.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\05FilesAndMatrixes\obj\Debug\05FilesAndMatrixes.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\05FilesAndMatrixes\obj\Debug\05FilesAndMatrixes.pdb

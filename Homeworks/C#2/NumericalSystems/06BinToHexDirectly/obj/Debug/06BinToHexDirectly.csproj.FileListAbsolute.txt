@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\06BinToHexDirectly\bin\Debug\06BinToHexDirectly.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\06BinToHexDirectly\bin\Debug\06BinToHexDirectly.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\06BinToHexDirectly\bin\Debug\06BinToHexDirectly.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\06BinToHexDirectly\obj\Debug\06BinToHexDirectly.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\06BinToHexDirectly\obj\Debug\06BinToHexDirectly.pdb

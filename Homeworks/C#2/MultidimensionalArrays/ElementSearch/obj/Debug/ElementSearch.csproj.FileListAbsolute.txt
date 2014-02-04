@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\ElementSearch\obj\Debug\ElementSearch.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\ElementSearch\bin\Debug\ElementSearch.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\ElementSearch\bin\Debug\ElementSearch.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\ElementSearch\bin\Debug\ElementSearch.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\ElementSearch\obj\Debug\ElementSearch.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\ElementSearch\obj\Debug\ElementSearch.pdb

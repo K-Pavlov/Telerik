@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\13Bit_Exchange_2\bin\Debug\13Bit_Exchange_2.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\13Bit_Exchange_2\bin\Debug\13Bit_Exchange_2.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\13Bit_Exchange_2\bin\Debug\13Bit_Exchange_2.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\13Bit_Exchange_2\obj\Debug\13Bit_Exchange_2.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\13Bit_Exchange_2\obj\Debug\13Bit_Exchange_2.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\13Bit_Exchange_2\obj\Debug\13Bit_Exchange_2.csprojResolveAssemblyReference.cache

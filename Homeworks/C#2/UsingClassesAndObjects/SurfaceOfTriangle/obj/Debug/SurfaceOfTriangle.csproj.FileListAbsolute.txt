@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\SurfaceOfTriangle\bin\Debug\SurfaceOfTriangle.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\SurfaceOfTriangle\bin\Debug\SurfaceOfTriangle.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\SurfaceOfTriangle\bin\Debug\SurfaceOfTriangle.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\SurfaceOfTriangle\obj\Debug\SurfaceOfTriangle.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\SurfaceOfTriangle\obj\Debug\SurfaceOfTriangle.pdb

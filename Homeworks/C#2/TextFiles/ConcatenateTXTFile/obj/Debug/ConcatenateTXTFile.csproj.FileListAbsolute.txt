@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\ConcatenateTXTFile\bin\Debug\ConcatenateTXTFile.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\ConcatenateTXTFile\bin\Debug\ConcatenateTXTFile.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\ConcatenateTXTFile\bin\Debug\ConcatenateTXTFile.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\ConcatenateTXTFile\obj\Debug\ConcatenateTXTFile.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\ConcatenateTXTFile\obj\Debug\ConcatenateTXTFile.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\ConcatenateTXTFile\obj\Debug\ConcatenateTXTFile.csprojResolveAssemblyReference.cache

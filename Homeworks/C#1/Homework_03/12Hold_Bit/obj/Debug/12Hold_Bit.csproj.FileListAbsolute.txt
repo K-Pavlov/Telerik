@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\12Hold_Bit\bin\Debug\12Hold_Bit.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\12Hold_Bit\bin\Debug\12Hold_Bit.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\12Hold_Bit\bin\Debug\12Hold_Bit.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\12Hold_Bit\obj\Debug\12Hold_Bit.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\12Hold_Bit\obj\Debug\12Hold_Bit.pdb

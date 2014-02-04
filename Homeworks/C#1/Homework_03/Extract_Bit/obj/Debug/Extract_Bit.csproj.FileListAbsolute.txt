@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\Extract_Bit\bin\Debug\Extract_Bit.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\Extract_Bit\bin\Debug\Extract_Bit.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\Extract_Bit\bin\Debug\Extract_Bit.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\Extract_Bit\obj\Debug\Extract_Bit.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\Extract_Bit\obj\Debug\Extract_Bit.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\Extract_Bit\obj\Debug\Extract_Bit.pdb

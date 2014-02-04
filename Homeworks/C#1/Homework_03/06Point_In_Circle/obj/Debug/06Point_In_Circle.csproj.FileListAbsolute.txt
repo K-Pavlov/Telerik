@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\06Point_In_Circle\bin\Debug\06Point_In_Circle.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\06Point_In_Circle\bin\Debug\06Point_In_Circle.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\06Point_In_Circle\bin\Debug\06Point_In_Circle.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\06Point_In_Circle\obj\Debug\06Point_In_Circle.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\06Point_In_Circle\obj\Debug\06Point_In_Circle.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\06Point_In_Circle\obj\Debug\06Point_In_Circle.csprojResolveAssemblyReference.cache

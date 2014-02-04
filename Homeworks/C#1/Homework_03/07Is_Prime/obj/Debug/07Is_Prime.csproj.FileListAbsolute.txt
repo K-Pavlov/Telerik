@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\07Is_Prime\bin\Debug\07Is_Prime.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\07Is_Prime\bin\Debug\07Is_Prime.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\07Is_Prime\bin\Debug\07Is_Prime.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\07Is_Prime\obj\Debug\07Is_Prime.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\07Is_Prime\obj\Debug\07Is_Prime.pdb

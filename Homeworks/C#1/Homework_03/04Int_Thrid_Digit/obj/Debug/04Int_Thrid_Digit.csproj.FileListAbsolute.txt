@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\04Int_Thrid_Digit\bin\Debug\04Int_Thrid_Digit.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\04Int_Thrid_Digit\bin\Debug\04Int_Thrid_Digit.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\04Int_Thrid_Digit\bin\Debug\04Int_Thrid_Digit.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\04Int_Thrid_Digit\obj\Debug\04Int_Thrid_Digit.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\04Int_Thrid_Digit\obj\Debug\04Int_Thrid_Digit.pdb

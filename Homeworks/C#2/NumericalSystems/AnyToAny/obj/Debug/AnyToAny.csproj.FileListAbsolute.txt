@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnyToAny\bin\Debug\AnyToAny.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnyToAny\obj\Debug\AnyToAny.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnyToAny\bin\Debug\AnyToAny.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnyToAny\bin\Debug\AnyToAny.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnyToAny\obj\Debug\AnyToAny.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\AnyToAny\obj\Debug\AnyToAny.pdb

@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\08GCD\bin\Debug\08GCD.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\08GCD\bin\Debug\08GCD.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\08GCD\bin\Debug\08GCD.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\08GCD\obj\Debug\08GCD.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\08GCD\obj\Debug\08GCD.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\08GCD\obj\Debug\08GCD.pdb

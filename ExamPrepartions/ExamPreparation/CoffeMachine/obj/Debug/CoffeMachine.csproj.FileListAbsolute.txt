@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ExamPreparation\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ExamPreparation\CoffeMachine\bin\Debug\CoffeMachine.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ExamPreparation\CoffeMachine\bin\Debug\CoffeMachine.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.csprojResolveAssemblyReference.cache

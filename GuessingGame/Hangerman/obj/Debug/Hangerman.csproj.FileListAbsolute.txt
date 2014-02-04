@@ -1,0 +1,4 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Hangerman\bin\Debug\Hangerman.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Hangerman\bin\Debug\Hangerman.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Hangerman\obj\Debug\Hangerman.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Hangerman\obj\Debug\Hangerman.pdb

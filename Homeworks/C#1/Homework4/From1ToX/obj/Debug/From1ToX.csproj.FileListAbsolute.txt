@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\From1ToX\bin\Debug\From1ToX.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\From1ToX\bin\Debug\From1ToX.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\From1ToX\bin\Debug\From1ToX.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\From1ToX\obj\Debug\From1ToX.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\From1ToX\obj\Debug\From1ToX.pdb

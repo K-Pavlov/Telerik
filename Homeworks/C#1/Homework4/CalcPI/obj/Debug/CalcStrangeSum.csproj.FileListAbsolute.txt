@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\bin\Debug\CalcStrangeSum.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\bin\Debug\CalcStrangeSum.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\bin\Debug\CalcStrangeSum.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\obj\Debug\CalcStrangeSum.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\obj\Debug\CalcStrangeSum.pdb

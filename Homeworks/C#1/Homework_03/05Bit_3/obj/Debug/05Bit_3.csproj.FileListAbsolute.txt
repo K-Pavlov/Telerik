@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\05Bit_3\bin\Debug\05Bit_3.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\05Bit_3\bin\Debug\05Bit_3.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\05Bit_3\bin\Debug\05Bit_3.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\05Bit_3\obj\Debug\05Bit_3.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\05Bit_3\obj\Debug\05Bit_3.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\05Bit_3\obj\Debug\05Bit_3.pdb

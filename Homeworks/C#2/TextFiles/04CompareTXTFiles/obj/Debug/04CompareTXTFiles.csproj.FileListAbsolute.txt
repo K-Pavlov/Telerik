@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\04CompareTXTFiles\bin\Debug\04CompareTXTFiles.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\04CompareTXTFiles\bin\Debug\04CompareTXTFiles.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\04CompareTXTFiles\bin\Debug\04CompareTXTFiles.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\04CompareTXTFiles\obj\Debug\04CompareTXTFiles.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\04CompareTXTFiles\obj\Debug\04CompareTXTFiles.pdb

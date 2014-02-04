@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\01ReadOddLinesFromFile\bin\Debug\01ReadOddLinesFromFile.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\01ReadOddLinesFromFile\bin\Debug\01ReadOddLinesFromFile.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\01ReadOddLinesFromFile\bin\Debug\01ReadOddLinesFromFile.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\01ReadOddLinesFromFile\obj\Debug\01ReadOddLinesFromFile.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\01ReadOddLinesFromFile\obj\Debug\01ReadOddLinesFromFile.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\TextFiles\01ReadOddLinesFromFile\obj\Debug\01ReadOddLinesFromFile.pdb

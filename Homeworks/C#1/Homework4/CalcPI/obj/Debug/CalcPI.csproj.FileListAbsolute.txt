@@ -1,0 +1,7 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\bin\Debug\CalcPI.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\obj\Debug\CalcPI.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\bin\Debug\CalcPI.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\bin\Debug\CalcPI.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\obj\Debug\CalcPI.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\obj\Debug\CalcPI.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\CalcPI\bin\Debug\CalcStrangeSum.exe.config

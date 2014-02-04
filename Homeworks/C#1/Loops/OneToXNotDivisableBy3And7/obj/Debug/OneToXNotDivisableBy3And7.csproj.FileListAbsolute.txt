@@ -1,0 +1,12 @@
+c:\users\kalo\csharpprogs\Loops\OneToXNotDivisableBy3And7\bin\Debug\OneToXNotDivisableBy3And7.exe.config
+c:\users\kalo\csharpprogs\Loops\OneToXNotDivisableBy3And7\bin\Debug\OneToXNotDivisableBy3And7.exe
+c:\users\kalo\csharpprogs\Loops\OneToXNotDivisableBy3And7\bin\Debug\OneToXNotDivisableBy3And7.pdb
+c:\users\kalo\csharpprogs\Loops\OneToXNotDivisableBy3And7\obj\Debug\OneToXNotDivisableBy3And7.exe
+c:\users\kalo\csharpprogs\Loops\OneToXNotDivisableBy3And7\obj\Debug\OneToXNotDivisableBy3And7.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToXNotDivisableBy3And7\bin\Debug\OneToXNotDivisableBy3And7.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToXNotDivisableBy3And7\bin\Debug\OneToXNotDivisableBy3And7.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToXNotDivisableBy3And7\bin\Debug\OneToXNotDivisableBy3And7.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToXNotDivisableBy3And7\obj\Debug\OneToXNotDivisableBy3And7.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToXNotDivisableBy3And7\obj\Debug\OneToXNotDivisableBy3And7.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToXNotDivisableBy3And7\obj\Debug\OneToXNotDivisableBy3And7.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\OneToXNotDivisableBy3And7\bin\Debug\02OneToXNotDivisableBy3And7.exe.config

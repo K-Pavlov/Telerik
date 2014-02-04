@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\MaxAndMin\bin\Debug\03MaxAndMin.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\MaxAndMin\bin\Debug\03MaxAndMin.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\MaxAndMin\bin\Debug\03MaxAndMin.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\MaxAndMin\obj\Debug\03MaxAndMin.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Loops\MaxAndMin\obj\Debug\03MaxAndMin.pdb

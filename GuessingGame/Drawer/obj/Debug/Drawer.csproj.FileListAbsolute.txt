@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Drawer\bin\Debug\Drawer.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Drawer\bin\Debug\Drawer.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Drawer\obj\Debug\Drawer.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Drawer\obj\Debug\Drawer.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\GuessingGame\Drawer\obj\Debug\Drawer.csprojResolveAssemblyReference.cache

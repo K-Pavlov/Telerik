@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\04DescendingSortWithIf\bin\Debug\04DescendingSortWithIf.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\04DescendingSortWithIf\bin\Debug\04DescendingSortWithIf.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\04DescendingSortWithIf\bin\Debug\04DescendingSortWithIf.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\04DescendingSortWithIf\obj\Debug\04DescendingSortWithIf.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\04DescendingSortWithIf\obj\Debug\04DescendingSortWithIf.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\04DescendingSortWithIf\obj\Debug\04DescendingSortWithIf.csprojResolveAssemblyReference.cache

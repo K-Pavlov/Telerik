@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\ReadIntegers\bin\Debug\ReadIntegers.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\ReadIntegers\obj\Debug\ReadIntegers.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\ReadIntegers\bin\Debug\ReadIntegers.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\ReadIntegers\bin\Debug\ReadIntegers.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\ReadIntegers\obj\Debug\ReadIntegers.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework4\ReadIntegers\obj\Debug\ReadIntegers.pdb

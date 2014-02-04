@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\09Point_Circle_Rect\bin\Debug\09Point_Circle_Rect.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\09Point_Circle_Rect\bin\Debug\09Point_Circle_Rect.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\09Point_Circle_Rect\bin\Debug\09Point_Circle_Rect.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\09Point_Circle_Rect\obj\Debug\09Point_Circle_Rect.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\09Point_Circle_Rect\obj\Debug\09Point_Circle_Rect.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\Homework_03\09Point_Circle_Rect\obj\Debug\09Point_Circle_Rect.csprojResolveAssemblyReference.cache

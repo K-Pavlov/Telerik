@@ -1,0 +1,7 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\04HexToDecimal\bin\Debug\04HexToDecimal.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\04HexToDecimal\bin\Debug\04HexToDecimal.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\04HexToDecimal\bin\Debug\04HexToDecimal.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\04HexToDecimal\bin\Debug\AnythingToAnything.dll
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\04HexToDecimal\bin\Debug\AnythingToAnything.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\04HexToDecimal\obj\Debug\04HexToDecimal.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\NumericalSystems\04HexToDecimal\obj\Debug\04HexToDecimal.pdb

@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\StringSort\bin\Debug\StringSort.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\StringSort\obj\Debug\StringSort.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\StringSort\bin\Debug\StringSort.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\StringSort\bin\Debug\StringSort.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\StringSort\obj\Debug\StringSort.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\MultidimensionalArrays\StringSort\obj\Debug\StringSort.pdb

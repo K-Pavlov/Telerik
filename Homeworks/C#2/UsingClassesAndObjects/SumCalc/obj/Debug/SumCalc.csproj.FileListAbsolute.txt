@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\SumCalc\bin\Debug\SumCalc.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\SumCalc\bin\Debug\SumCalc.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\SumCalc\bin\Debug\SumCalc.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\SumCalc\obj\Debug\SumCalc.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\UsingClassesAndObjects\SumCalc\obj\Debug\SumCalc.pdb

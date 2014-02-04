@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\ExhangeVal\bin\Debug\ExhangeVal.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\ExhangeVal\bin\Debug\ExhangeVal.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\ExhangeVal\bin\Debug\ExhangeVal.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\ExhangeVal\obj\Debug\ExhangeVal.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\ExhangeVal\obj\Debug\ExhangeVal.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\ExhangeVal\obj\Debug\ExhangeVal.pdb

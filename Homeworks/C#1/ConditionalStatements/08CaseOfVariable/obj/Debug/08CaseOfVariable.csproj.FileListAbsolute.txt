@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\08CaseOfVariable\bin\Debug\08CaseOfVariable.exe.config
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\08CaseOfVariable\bin\Debug\08CaseOfVariable.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\08CaseOfVariable\bin\Debug\08CaseOfVariable.pdb
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\08CaseOfVariable\obj\Debug\08CaseOfVariable.exe
+C:\Users\kalin\Documents\Visual Studio 2012\Projects\ConditionalStatements\08CaseOfVariable\obj\Debug\08CaseOfVariable.pdb
