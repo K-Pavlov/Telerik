@@ -1,0 +1,6 @@
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericList\bin\Debug\GenericList.exe
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericList\bin\Debug\GenericList.pdb
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericList\obj\Debug\GenericList.exe
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericList\obj\Debug\GenericList.pdb

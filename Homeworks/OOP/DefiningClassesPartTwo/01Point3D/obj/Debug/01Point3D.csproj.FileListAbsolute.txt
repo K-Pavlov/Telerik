@@ -1,0 +1,6 @@
+c:\users\kalin\documents\visual studio 2013\Projects\DefiningClassesPartTwo\01Point3D\bin\Debug\01Point3D.exe.config
+c:\users\kalin\documents\visual studio 2013\Projects\DefiningClassesPartTwo\01Point3D\bin\Debug\01Point3D.exe
+c:\users\kalin\documents\visual studio 2013\Projects\DefiningClassesPartTwo\01Point3D\bin\Debug\01Point3D.pdb
+c:\users\kalin\documents\visual studio 2013\Projects\DefiningClassesPartTwo\01Point3D\obj\Debug\01Point3D.csprojResolveAssemblyReference.cache
+c:\users\kalin\documents\visual studio 2013\Projects\DefiningClassesPartTwo\01Point3D\obj\Debug\01Point3D.exe
+c:\users\kalin\documents\visual studio 2013\Projects\DefiningClassesPartTwo\01Point3D\obj\Debug\01Point3D.pdb

@@ -1,0 +1,5 @@
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericMatrix\bin\Debug\GenericMatrix.exe.config
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericMatrix\bin\Debug\GenericMatrix.exe
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericMatrix\bin\Debug\GenericMatrix.pdb
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericMatrix\obj\Debug\GenericMatrix.exe
+C:\Users\kalin\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwo\GenericMatrix\obj\Debug\GenericMatrix.pdb
